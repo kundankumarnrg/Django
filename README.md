@@ -1,16 +1,15 @@
 # Django
 
->>Check python version:
+Basic information
 
-    python --version
-    
->>Check django version:
-    
-    django-admin --version
- 
->>Install django:
-
-    pip install django
->>Unintall django:
-
+    >>Check python version:
+        python --version
+    >>Check django version:
+        django-admin --version
+    >>Install django:
+        pip install django
+    >>Unintall django:
     pip uninstall django
+    
+    
+
