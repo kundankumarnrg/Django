@@ -9,7 +9,7 @@ Basic information
     >>Install django:
         pip install django
     >>Unintall django:
-    pip uninstall django
+        pip uninstall django
     
     
 
